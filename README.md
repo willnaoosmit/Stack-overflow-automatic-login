@@ -6,3 +6,11 @@ how to use:
 > put your user and password on the "user" and "password" variables respectively.
 
 > Add this to a crontab if you want to run it on a server (That's the purpose)
+
+In case of:
+- Incorrect user
+- Incorrect password
+- captcha
+- fire
+
+nothing is going to work, bye.
