@@ -1,7 +1,7 @@
 A script to log-in on stackoverflow so you can get that "Enthusiast" badge
 
 how to use:
-> install selenium and geckodriver (I used geckodriver version 26 and it goest well)
+> install selenium and geckodriver (I used geckodriver version 26 and it goes well)
 
 > put your user and password on the "user" and "password" variables respectively.
 
