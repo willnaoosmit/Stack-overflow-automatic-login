@@ -15,4 +15,4 @@ In case of:
 
 nothing is going to work, bye.
 
-![proof](https://i.imgur.com/3A4zacY.png)
+![proof](https://i.imgur.com/jUYBvyM.jpg)
