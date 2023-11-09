@@ -26,11 +26,11 @@ try:
 	sleep(60)
 
 except Exception as error:
-	print(error)
-	browser.close()
+	print(error)	
 
 finally:
 	try:
-		browser.close()
+		browser.quit()
+	
 	except:
 		pass
